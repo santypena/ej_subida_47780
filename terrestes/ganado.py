@@ -11,6 +11,6 @@ class Bufalo(Animal):
 class Oveja(Animal):
     pass
 
-class Caballo(Animal)
+class Caballo(Animal):
     pass
 
